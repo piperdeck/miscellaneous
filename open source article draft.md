@@ -1,3 +1,5 @@
+# Introduction to Open Source
+
 Open Source is one of the most exciting phenomena of our modern world. For many of us, it inspires us to dream of a utopia where software is free, secure, and well made. But when you start to dive into the culture of Open Source, it can take a while to get used to the jargon, the controversies, and the technical details. You've probably heard concepts and names being thrown around that you don't understand, and straight answers to questions can be surprisingly hard to find.
 
 If you're new to this world, or if you're not new and a bit embarrassed about some of your gaps in knowledge, this article is for you.
@@ -46,7 +48,7 @@ According to the Open Source Initiative (widely held as an authority on the subj
 
 In broad strokes, in order for software to be Open Source, the source code needs to be shared with end-users of the software, and those users must be able to modify the source code, re-compile the software, and redistribute the code and software.
 
-## What *isn't* Open Source?
+## What _isn't_ Open Source?
 
 ### Proprietary software
 
@@ -69,3 +71,18 @@ Software that is distributed in a way that give you access to at least read the 
 An example of this is Epic's Unreal Engine. According to [the Unreal Engine End User License](https://www.unrealengine.com/en-US/eula/unreal), you can download and use the Unreal Engine, and you can look at its source code, but you're not allowed to publicly redistribute modified versions of the code.
 
 
+
+## License reference
+- Apache License 2.0
+- GNU GPL v3.0
+- MIT
+- BSD 2-Clause “Simplified” License
+- BSD 3-Clause “New”/“Revise” License
+- Boost Software License 1.0
+- CC0 v1.0 Universal
+- Eclipse Public License 2.0
+- GNU Affero GPL v3.0
+- GNU GPL v2.0
+- GNU Lesser GPL v2.1
+- Mozilla Public License 2.0
+- The Unlicense
