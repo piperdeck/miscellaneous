@@ -70,19 +70,3 @@ Software that is distributed in a way that give you access to at least read the 
 
 An example of this is Epic's Unreal Engine. According to [the Unreal Engine End User License](https://www.unrealengine.com/en-US/eula/unreal), you can download and use the Unreal Engine, and you can look at its source code, but you're not allowed to publicly redistribute modified versions of the code.
 
-
-
-## License reference
-- Apache License 2.0
-- GNU GPL v3.0
-- MIT
-- BSD 2-Clause “Simplified” License
-- BSD 3-Clause “New”/“Revise” License
-- Boost Software License 1.0
-- CC0 v1.0 Universal
-- Eclipse Public License 2.0
-- GNU Affero GPL v3.0
-- GNU GPL v2.0
-- GNU Lesser GPL v2.1
-- Mozilla Public License 2.0
-- The Unlicense
