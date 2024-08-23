@@ -28,3 +28,8 @@ FAQs from working group
 - Do I own my stuff?
 - Am I entitled to money?
 - Can I make people stop using my stuff?
+
+Feedback from the working group
+- The jump from the intro to the first content section is pretty sudden.
+- It might not be necessary to talk about patents and trademarks
+- Maybe this should be broken into two articles?
