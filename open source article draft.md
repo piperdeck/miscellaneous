@@ -93,3 +93,24 @@ Picture this: You’ve released some Open Source software into the world, and ho
 
 This is the problem that “Copyleft” licenses are meant to solve. A copyleft license gives the user of a piece of software the ability to create and distribute derivative works, *under the condition that those derivative works are also published with a copyleft license*. The goal is that, once you’ve published your work under a copyleft license, it will stay copyleft forever.
 
+## What is a permissive license?
+
+Permissive licenses are sort of the opposite of Copyleft. They permit the immediate user of the licensed software do more with it, including potentially creating proprietary derivative works with it.
+
+The naming conventions of permissive vs copyleft licenses might seem a little bit counterintuitive. Because “permissive” sounds freedom-y, it seems strange that permissive licenses are the ones that can lead to open source software becoming closed source. But the philosophy of copyleft is that if you give people the freedom to restrict other people’s freedom, the net effect is less freedom. A permissive license is sort of like the parent who lets their kid stay out as late as they want, eat candy for dinner, and skip school. The kid might have more freedom in the short term, but it might end up limiting their options later on.
+
+But there are reasons to release your work under a permissive license other than a commitment to absolute anarchy. If your project is very small, or it didn’t take you very long to create, or you plan on abandoning it entirely, it might just be easier to release it into the world with no strings attached rather than to spend your time worrying about how to license it. For projects like hackathons or daily programming exercises that aren’t likely to turn into critical infrastructure in someone else’s technology stack, a big huge license like the GPL might be complete overkill. The license file itself might even be bigger than the entirety of the code that it licenses!
+
+## What is a CLA?
+
+==WARNING: CONTROVERSY AHEAD==
+
+Open source licenses generally cover the intellectual property considerations of source code as it is distributed, used, modified, and redistributed. But most open source projects also have a mechanism that lets people contribute changes back to the original author to incorporate into the software. For example, active projects hosted on GitHub usually let people submit pull requests (PRs).
+
+But this introduces some additional complexity to the intellectual property aspects of the project. Generally speaking, any changes a contributor makes to an open source project are their own intellectual property, and can theoretically come with their own licenses, chosen by their authors, that can be distinct from the license that governs the rest of the software project. 
+
+Why does this matter? Well, imagine I that I created some software, and published it on GitHub with a permissive license. Then you come along and write a new feature, and submit a PR to add it to the project. I think your new feature is great, and I accept the changes. Everyone’s happy. But now, I create a premium version of the software that I sell for 5 bucks, and I keep all of the money. “Wait!” you say, “You can’t take this open source project and sell it for profit!” “Why not?” I say, “It’s my project.” “But”, you reply, “One of the premium features that you’re selling is *my* work. I never gave you permission to sell it!” And the thing is, in this situation, you’re right. The feature you wrote is your intellectual property, and by accepting it into my project, I limited what I could do with the project as a whole.
+
+This is why many projects have a contributor license agreement, or CLA. If a project wants to accept contributions from the public, but it also wants to sustain itself and make money, it will often reject contributions from anyone who hasn’t agreed to certain terms laid out in the license agreement. Usually, those terms basically amount to “You can contribute, as long as you give use permission to use those contributions as we see fit."
+
+If you have alarm bells going off in your head, you’re not alone. Like I alluded to at the beginning of this section, CLAs are a big source of controversy among people in the Free Software movement. A lot of people are rightly skeptical of CLA

@@ -2,7 +2,7 @@
 
 ## Topics to cover
 - [x] Free Software
-- [ ] Permissive vs copyleft licenses
+- [x] Permissive vs copyleft licenses
 - [ ] CLAs
 - [ ] Creative commons
 - [ ] Public domain
