@@ -1,13 +1,13 @@
 **REMEMBER THAT ALL OF THIS WILL NEED TO BE SCREENED BY LEGAL**
 
 ## Topics to cover
-- Free Software
-- Permissive vs copyleft licenses
-- CLAs
-- Creative commons
-- Public domain
-- Tivoization
-- Open Source Design — Does that make sense as a concept?
+- [x] Free Software
+- [ ] Permissive vs copyleft licenses
+- [ ] CLAs
+- [ ] Creative commons
+- [ ] Public domain
+- [ ] Tivoization
+- [ ] Open Source Design — Does that make sense as a concept?
 
 ## Licenses to reference
 - Apache License 2.0

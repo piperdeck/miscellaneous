@@ -4,29 +4,31 @@ Open Source is one of the most exciting phenomena of our modern world. For many 
 
 If you're new to this world, or if you're not new and a bit embarrassed about some of your gaps in knowledge, this article is for you.
 
+But before we start talking about licenses, we need to start with some more basic concepts; namely, Intellectual Property, 
+
 ## What is Intellectual property?
 
-Intellectual property is the concept of ownership over something intangible, like an idea, a song, a story, or some computer code. It is distinct from concepts of private property (ownership of land and/or capital by a person or organization) and personal property (ownership of physical objects by a person) because unlike those traditional property concepts, theft of intellectual property doesn't deprive the owner of the thing itself. 
+Intellectual property, or IP, is the concept of ownership over something intangible, like an idea, a song, a story, or some computer code. It is distinct from concepts of private property (ownership of land and/or capital by a person or organization) and personal property (ownership of physical objects by a person) because unlike those traditional property concepts, theft of intellectual property doesn't deprive the owner of the thing itself. 
 
 If I have a laptop and you take it, I no longer have the laptop anymore. But what if I write a book on my laptop and you hack into it and publish the book before me? In some sense, you didn't really take the book away from me, I still have it. I can still open it up and read it and enjoy it. But most people have a sense that you've done something wrong to me. You may not have deprived me of this intangible thing that is my book, but you've taken away my ability to receive the credit or compensation for work I put into making it. That's what intellectual property (in this case, copyright) is all about.
 
-Intellectual property usually comes in 3 forms: Trademarks, patents, and copyrights.
+Intellectual property usually comes in 3 forms: Trademarks, patents, and copyrights. Although the differences between these types of IP
 
-### What are trademarks?
+### ~~What are trademarks?~~
 
-Trademarks are the symbols that people and brands use to indicate that something comes from them, and not someone else. For example, Apple computers owns the trademark for the apple symbol found on the backs of their laptops and phones, as well as the names "MacBook" and "iPhone".
+~~Trademarks are the symbols that people and brands use to indicate that something comes from them, and not someone else. For example, Apple computers owns the trademark for the apple symbol found on the backs of their laptops and phones, as well as the names "MacBook" and "iPhone".~~
 
-As a rule of thumb, trademarks are any of the signifiers that a consumer might look at to reliably verify that the thing they're buying comes from the producer they want to buy from. 
+~~As a rule of thumb, trademarks are any of the signifiers that a consumer might look at to reliably verify that the thing they're buying comes from the producer they want to buy from.~~ 
 
-In many places like the US and Canada, trademarks require no action from the rights holder in order to come into effect. However, it's usually still a good idea to register a trademark, so that your case is as strong as possible if it needs to be litigated.
+~~In many places like the US and Canada, trademarks require no action from the rights holder in order to come into effect. However, it's usually still a good idea to register a trademark, so that your case is as strong as possible if it needs to be litigated.~~
 
-### What are patents?
+### ~~What are patents?~~
 
-Patents protect people's rights to monetize inventions. Unlike the other two main forms of IP, patents only exist once they are created by a patent registry. If you invent a new kind of rechargeable battery, but you accidentally leave the engineering drawings for it lying in a cafe, it would be totally legal for someone to take photos of the drawings and beat you to market with their own battery that used your innovations, unless you obtained a patent first.
+~~Patents protect people's rights to monetize inventions. Unlike the other two main forms of IP, patents only exist once they are created by a patent registry. If you invent a new kind of rechargeable battery, but you accidentally leave the engineering drawings for it lying in a cafe, it would be totally legal for someone to take photos of the drawings and beat you to market with their own battery that used your innovations, unless you obtained a patent first.~~
 
-Patents usually don't apply to computer code, so we won't go into more detail about them here.
+~~Patents usually don't apply to computer code, so we won't go into more detail about them here.~~
 
-### What are copyrights?
+## What are copyrights?
 
 Copyrights give the author of a creative work the exclusive right to copy and distribute that work. Unlike the other forms of IP discussed above, a copyright comes into effect the moment the creative work comes into existence, with no action needed from its creator.
 
@@ -38,13 +40,15 @@ Now that we know what copyrights are, we can talk about licenses. A license is a
 
 In the case of software, if you publish some source code that you wrote, you can choose to make it Open Source by publishing it with an Open Source License.
 
-## What is Open Source? (AKA: Wait. If the source code is public, isn't it open source by definition?)
+## What is Open Source?
+
+> Wait. If the source code is public, isn't it open source by definition?
 
 Well, that depends on what you mean by Open Source. This term is often used to generally refer to an attitude of freely disclosing the source code of a piece of software, documenting it well, and encouraging people to use it for free.
 
 But "Open Source" also has a strict definition in the world of software, and it's important to know what that is.
 
-According to the Open Source Initiative (widely held as an authority on the subject), Open Source is a legally specific way of distributing software. The OSI lists 10 conditions and maintains a catalogue of approved licenses.
+According to the Open Source Initiative (widely held as an authority on the subject), Open Source is a legally specific way of distributing software. The OSI lists 10 preconditions for open source and maintains a catalogue of approved licenses.
 
 In broad strokes, in order for software to be Open Source, the source code needs to be shared with end-users of the software, and those users must be able to modify the source code, re-compile the software, and redistribute the code and software.
 
@@ -60,7 +64,7 @@ Freeware is software that you don't need to pay for. It might be open source, or
 
 For example, you can download the macOS operating system for free, but you can't look at the source code, and the software license that comes with macOS prohibits its installation on third-party hardware.
 
-**Bonus round: Shareware**
+#### Bonus round: Shareware
 
 Shareware is basically like freeware, but which is distributed with the intention that people will share it around. This was particularly common in the days before high-bandwidth internet, where people would distribute their favourite applications on physical media like floppy disks. It was a particularly popular way of distributing video game demos, such as those for Doom and Quake.
 
