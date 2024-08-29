@@ -74,3 +74,22 @@ Software that is distributed in a way that give you access to at least read the 
 
 An example of this is Epic's Unreal Engine. According to [the Unreal Engine End User License](https://www.unrealengine.com/en-US/eula/unreal), you can download and use the Unreal Engine, and you can look at its source code, but you're not allowed to publicly redistribute modified versions of the code.
 
+## What is Free Software?
+
+> Surely it’s just software that’s free, right?
+
+We need to distinguish between two related but distinct meanings of the word *free*. There’s *free* in the sense of “free beer”, and free in the sense of freedom. For proponents of “Free Software” (in the capitalized sense), it’s not enough for something to cost nothing for it to be free. It’s not even enough for it to be open source. Free Software, in the strict sense, is software that respects and upholds your freedoms. Which freedoms? Per the [explanation from GNU](https://www.gnu.org/philosophy/free-sw.html):
+
+* The freedom to run the program as you wish, for any purpose (freedom 0).
+* The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+* The freedom to redistribute copies so you can help others (freedom 2).
+* The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+I’ve listed out the freedoms because I want you to notice something: This is a fundamentally different kind of thing compared to Open Source as described by the Open Source Foundation. Whereas Open Source is a *legal* definition, Free Software is a *moral* definition. Whereas the goal of Open Source is to compete with proprietary software as a commercially viable alternative, the goal of Free Software is to fundamentally rethink how we relate to software on a personal level. 
+
+## What is Copyleft?
+
+Picture this: You’ve released some Open Source software into the world, and hoping that curious and collaborative people will use it, look at the source code, learn something from it, and maybe even help you find bugs or add features. But then, a big for-profit corporation comes along, takes your code, and uses it in their proprietary software product. On the one hand, your code is being freely used (by the big corporation). But on the other hand that freedom only lasted one generation, so to speak. 
+
+This is the problem that “Copyleft” licenses are meant to solve. A copyleft license gives the user of a piece of software the ability to create and distribute derivative works, *under the condition that those derivative works are also published with a copyleft license*. The goal is that, once you’ve published your work under a copyleft license, it will stay copyleft forever.
+
